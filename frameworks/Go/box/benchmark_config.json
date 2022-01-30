@@ -1,0 +1,27 @@
+{
+  "framework": "box",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "db_url": "/db",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Fullstack",
+        "database": "mongodb",
+        "framework": "Box",
+        "language": "Go",
+        "flavor": "None",
+        "orm": "Raw",
+        "platform": "None",
+        "webserver": "None",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "Box",
+        "notes": "",
+        "versus": "None"
+      }
+    }
+  ]
+}
