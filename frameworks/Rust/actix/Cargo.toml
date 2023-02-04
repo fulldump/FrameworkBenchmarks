@@ -48,7 +48,7 @@ diesel = { version = "1.4.3", features = ["postgres"] }
 url = "2.1.1"
 log = { version = "0.4", features = ["release_max_level_debug"] }
 v_htmlescape = "0.10"
-tokio = "0.2"
+tokio = "1.18"
 tokio-postgres = { git = "https://github.com/fafhrd91/rust-postgres.git" }
 
 [build-dependencies]
